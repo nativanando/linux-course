@@ -25,4 +25,4 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
    4. Quantidade total de memória (em gigabyte);
    5. Quantidade total de memória utilizada (em megabyte);
    6. Quantidade de memória disponível (em kilobyte).
-6. Verificar se o arquivo contém as informaçes corretas;
+6. Verifique se o arquivo contém as informaçes corretas;
