@@ -1,9 +1,5 @@
 # Desafio 01
 
-![alt text](
-https://s2.glbimg.com/f17XLgLkzTJvgviTcruEk7gUPg4=/0x0:620x412/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/n/B/YdwdiATtidl39oEX0ong/estagio4.jpg)
-
-
 <p align="center">
   <img width="460" height="400" src="https://s2.glbimg.com/f17XLgLkzTJvgviTcruEk7gUPg4=/0x0:620x412/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/n/B/YdwdiATtidl39oEX0ong/estagio4.jpg">
 </p>
@@ -37,7 +33,7 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
 10. Verifique se o diretório e o arquivo foram excluídos.
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/3o7abuqxszgO6pFb3i/giphy.gif">
+  <img width="560" height="300" src="https://media.giphy.com/media/3o7abuqxszgO6pFb3i/giphy.gif">
 </p>
 
 
