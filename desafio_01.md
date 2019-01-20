@@ -6,3 +6,9 @@ https://s2.glbimg.com/f17XLgLkzTJvgviTcruEk7gUPg4=/0x0:620x412/984x0/smart/filte
  Alberto é estudande de Engenharia da Computação e foi contratado, como estagiário, para atuar na área de suporte em uma empresa de tecnologia. No primeiro dia de estágio, Alberto recebe uma ligação do Alice, Analista de Sistemas, que deseja saber quais as configurações do sistema operacional (Linux) instalado nas novas máquinas. Alice precisa saber qual distribuição Linux está sendo usada nas máquinas, versão do Kernel, informaçes sobre o processador e também julga importante saber a quantidade de memória RAM disponível.
  
  Para atender a demanda, Alberto decide estabelecer um acesso remoto à máquina, possibilitando acesso apenas ao terminal. Tendo isso em vista, quais os comandos necessários para atender as solicitaçes de Alice?
+
+1. Qual o comando responsvel por retornar as principais informaçes da distribuição em um sistema Linux?
+2. Qual o comando responsável por retornar a versão do Kernel utilizada pelo sistema?
+3. Qual o principal comando para retornar informaçes sobre o processador?
+4. Qual o principal comando utilizado para verificar a quantidade de memória disponível no sistema?
+
