@@ -7,7 +7,7 @@ https://s2.glbimg.com/f17XLgLkzTJvgviTcruEk7gUPg4=/0x0:620x412/984x0/smart/filte
  
  Para atender a demanda, Alberto decide estabelecer um acesso remoto à máquina, possibilitando acesso apenas ao terminal. Tendo isso em vista, quais os comandos necessários para atender as solicitaçes de Alice?
 
-1. Qual o comando responsvel por retornar as principais informaçes da distribuição em um sistema Linux?
+1. Qual o comando responsável por retornar as principais informaçes da distribuição em um sistema Linux?
 2. Qual o comando responsável por retornar a versão do Kernel utilizada pelo sistema?
 3. Qual o principal comando para retornar informaçes sobre o processador?
 4. Qual o principal comando utilizado para verificar a quantidade de memória disponível no sistema?
@@ -15,7 +15,7 @@ https://s2.glbimg.com/f17XLgLkzTJvgviTcruEk7gUPg4=/0x0:620x412/984x0/smart/filte
 Após coletar as informações necessárias crie um relatório para enviar à Alice, para isso:
 
 1. Verifique de estar na raiz do sistema ("/");
-2. Crie uma nova pasta no diretório /home/$USER chamada "atividades";
+2. Crie uma nova pasta, no diretório de trabalho padrão do usuário, chamada "atividades";
 3. Navegue até a pasta "atividades" a partir da raiz;
 4. Crie um novo arquivo chamado "demanda_alice.txt";
 5. Dentro do arquivo escreva os resultados dos exercícios anteriores
@@ -26,3 +26,8 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
    5. Quantidade total de memória utilizada (em megabyte);
    6. Quantidade de memória disponível (em kilobyte).
 6. Verifique se o arquivo contém as informaçes corretas;
+7. Crie uma nova pasta, no diretório de trabalho padrão do usuário, chamada "historico_demandas" e copie o arquivo "demanda_alice.txt" para dentro dessa nova pasta;
+8. Após copiar o arquivo para o novo diretório, exclua o arquivo "demanda_alice.txt", que encontra-se dentro da pasta "atividades";
+9. Após excluir o arquivo "demanda_alice.txt", exclua o diretório "atividades";
+10. Verifique se o diretório e o arquivo foram excluídos.
+
