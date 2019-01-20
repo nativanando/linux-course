@@ -18,7 +18,7 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
 2. Crie uma nova pasta no diretório /home/$USER chamada "atividades";
 3. Navegue até a pasta "atividades" a partir da raiz;
 4. Crie um novo arquivo chamado "demanda_alice.txt"
-5. Dentro do arquivo escreva os resultados dos exercícios anteriores: 
+5. Dentro do arquivo escreva os resultados dos exercícios anteriores
  1. Nome e versão da distribuição
  2. Versão do Kernel;
  3. Quantidade de núcleos do processador;
