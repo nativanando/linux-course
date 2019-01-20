@@ -30,8 +30,15 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
 8. Após copiar o arquivo para o novo diretório, exclua o arquivo "demanda_alice.txt", que encontra-se dentro da pasta "atividades";
 9. Após excluir o arquivo "demanda_alice.txt", exclua o diretório "atividades";
 10. Verifique se o diretório e o arquivo foram excluídos.
+---
 
-                              ![](https://media.giphy.com/media/3o7abuqxszgO6pFb3i/giphy.gif)
+##
+
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/3o7abuqxszgO6pFb3i/giphy.gif">
+</p>
+
+```
 
 
 
