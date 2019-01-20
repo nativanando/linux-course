@@ -19,18 +19,10 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
 3. Navegue até a pasta "atividades" a partir da raiz;
 4. Crie um novo arquivo chamado "demanda_alice.txt"
 5. Dentro do arquivo escreva os resultados dos exercícios anteriores
-  1. Nome e verso da distribuição
-  2. Versão do Kernel
-
- 5.1 Nome e versão da distribuição
-
- 5.2 Versão do Kernel
-
- 5.3 Quantidade de núcleos do processador
- 
- 5.4 Quantidade total de memória (em gigabyte)
- 
- 5.5 Quantidade de memória utilizada (em megabyte)
- 
- 5.6 Quantidade de memória disponível (em kilobyte)
-6. 
+   1. Nome e verso da distribuição
+   2. Versão do Kernel
+   3. Quantidade de núcleos do processador
+   4. Quantidade total de memória (em gigabyte)
+   5. Quantidade total de memória utilizada (em megabyte)
+   6. Quantidade de memória disponível (em kilobyte)
+6. Verificar se o arquivo contém as informaçes corretas
