@@ -14,15 +14,15 @@ https://s2.glbimg.com/f17XLgLkzTJvgviTcruEk7gUPg4=/0x0:620x412/984x0/smart/filte
 
 Após coletar as informações necessárias crie um relatório para enviar à Alice, para isso:
 
-1. Verifique de estar na raiz do sistema ("/")
+1. Verifique de estar na raiz do sistema ("/");
 2. Crie uma nova pasta no diretório /home/$USER chamada "atividades";
 3. Navegue até a pasta "atividades" a partir da raiz;
-4. Crie um novo arquivo chamado "demanda_alice.txt"
+4. Crie um novo arquivo chamado "demanda_alice.txt";
 5. Dentro do arquivo escreva os resultados dos exercícios anteriores
-   1. Nome e verso da distribuição
-   2. Versão do Kernel
-   3. Quantidade de núcleos do processador
-   4. Quantidade total de memória (em gigabyte)
-   5. Quantidade total de memória utilizada (em megabyte)
-   6. Quantidade de memória disponível (em kilobyte)
-6. Verificar se o arquivo contém as informaçes corretas
+   1. Nome e verso da distribuição;
+   2. Versão do Kernel;
+   3. Quantidade de núcleos do processador;
+   4. Quantidade total de memória (em gigabyte);
+   5. Quantidade total de memória utilizada (em megabyte);
+   6. Quantidade de memória disponível (em kilobyte).
+6. Verificar se o arquivo contém as informaçes corretas;
