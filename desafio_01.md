@@ -19,6 +19,8 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
 3. Navegue até a pasta "atividades" a partir da raiz;
 4. Crie um novo arquivo chamado "demanda_alice.txt"
 5. Dentro do arquivo escreva os resultados dos exercícios anteriores
+⋅⋅* Nome e versão da distribuição. 
+
 
  5.1 Nome e versão da distribuição
 
