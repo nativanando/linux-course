@@ -5,7 +5,7 @@
 </p>
 
  Alberto é estudande de Engenharia da Computação e foi contratado, como estagiário, para atuar na área de suporte em uma empresa de tecnologia. No primeiro dia de estágio, Alberto recebe uma ligação do Alice, Analista de Sistemas, que deseja saber quais as configurações do sistema operacional (Linux) instalado nas novas máquinas. Alice precisa saber qual distribuição Linux está sendo usada nas máquinas, versão do Kernel, informaçes sobre o processador e também julga importante saber a quantidade de memória RAM disponível.
- 
+
  Para atender a demanda, Alberto decide estabelecer um acesso remoto à máquina, possibilitando acesso apenas ao terminal. Tendo isso em vista, quais os comandos necessários para atender as solicitaçes de Alice?
 
 1. Qual o comando responsável por retornar as principais informaçes da distribuição em um sistema Linux?
@@ -31,10 +31,3 @@ Após coletar as informações necessárias crie um relatório para enviar à Al
 8. Após copiar o arquivo para o novo diretório, exclua o arquivo "demanda_alice.txt", que encontra-se dentro da pasta "atividades";
 9. Após excluir o arquivo "demanda_alice.txt", exclua o diretório "atividades";
 10. Verifique se o diretório e o arquivo foram excluídos.
-
-<p align="center">
-  <img width="560" height="300" src="https://media.giphy.com/media/3o7abuqxszgO6pFb3i/giphy.gif">
-</p>
-
-
-
