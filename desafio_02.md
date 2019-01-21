@@ -7,6 +7,7 @@
 
 1. Crie um arquivo chamado “segredo.txt” como usuário itaipu e insira o segredo “O palmeiras não tem mundial” dentro do arquivo;
 2. Verifique qual o tipo do arquivo que foi criado. Com qual comando é possível visualizar essa informação?
-3. Verifique com que tipo de permissão o arquivo foi criado e responda a seguinte pergunta:
+3. Verifique qual o dono e o grupo do arquivo. Com qual comando é possível visualizar essa informação?
+4. Verifique quais são as configurações de permissão do arquivo e responda a seguinte pergunta:
     1. O usuário celtab é capaz de abrir, ler e escrever nesse arquivo? Justifique sua resposta.
-4. Modifique a permissão do arquivo para que o usuário não tenha acesso ao conteúdo do arquivo;
+5. Modifique a permissão do arquivo para que o usuário não tenha acesso ao conteúdo do arquivo;
