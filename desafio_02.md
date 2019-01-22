@@ -20,6 +20,6 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
     2. Qual arquivo possibilita a qualquer usuário do sistema a permissão de escrita?
     3. Quais arquivos possibilitam ao usuário permissão de leitura?
 <p align="center">
-  <img width="560" height="300" src="http://linoxide.com/wp-content/uploads/2014/01/ls_lhS.png">
+  <img width="560" height="280" src="http://linoxide.com/wp-content/uploads/2014/01/ls_lhS.png">
 </p>
  
