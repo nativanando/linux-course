@@ -17,8 +17,7 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
 7. Libere acesso ao usuário celtab para leitura e escrita.
 8. Observer a Figura abaixo e responda as seguintes perguntas:
     1. Quais arquivos possibilitam leitura para qualquer usuário do sistema?
-    2. Qual arquivo possibilita a qualquer usuário do sistema a permissão de escrita?
-    3. Quais arquivos possibilitam ao usuário permissão de leitura?
+    2. Existem quantas pastas nesse diretório? Quais usuários podem escrever nessas pastas?
 <p align="center">
   <img width="560" height="280" src="http://linoxide.com/wp-content/uploads/2014/01/ls_lhS.png">
 </p>
