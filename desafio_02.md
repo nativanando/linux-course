@@ -5,11 +5,13 @@
 </p>
 
 
-1. Crie um arquivo chamado “segredo.txt” como usuário itaipu e insira o segredo “O palmeiras não tem mundial” dentro do arquivo;
+A itaipu precisa guardar um segredo que não pode ser compartilhado com outro usurio do Sistema. Atualmente o sistema contém dois usuários: itaipu e celtab. Tendo isso em vista, realize os seguintes passos para que seja feita a inserção do segredo de maneira segura:
+
+1. Crie um arquivo chamado “segredo.txt”, como usuário itaipu, e insira o segredo “O Palmeiras não tem mundial” dentro do arquivo;
 2. Verifique qual o tipo do arquivo que foi criado. Com qual comando é possível visualizar essa informação?
 3. Verifique qual o dono e o grupo do arquivo. Com qual comando é possível visualizar essa informação?
 4. Verifique quais são as configurações de permissão do arquivo e responda a seguinte pergunta:
     1. O usuário celtab é capaz de abrir, ler e escrever nesse arquivo? Justifique sua resposta.
-5. Modifique a permissão do arquivo para que o usuário não tenha acesso ao conteúdo do arquivo;
-
-continuar..
+5. Se o usuário celtab for capaz de ler esse arquivo, modifique a permissão para que o usuário celtab não tenha acesso ao conteúdo do arquivo;
+6. Libere acesso ao usurário celtab apenas para leitura;
+7. Libere acesso ao usuário celtab para leitura e escrita.
