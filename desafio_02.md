@@ -16,7 +16,7 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
 6. Libere acesso ao usurário celtab apenas para leitura;
 7. Libere acesso ao usuário celtab para leitura e escrita.
 8. Observer a Figura abaixo e responda as seguintes perguntas:
-    1.  Qual arquivos possuem mais restrição de acesso?
+    1. Quais arquivos possuem maior restrição de acesso?
     2. Qual arquivo possibilita à outro usuário permissão de escrita?
     3. Quais arquivos permitem ao usurio permissão de leitura?
 <p align="center">
