@@ -9,8 +9,11 @@
  Para atender a demanda, Alberto decide estabelecer um acesso remoto à máquina, possibilitando acesso apenas ao terminal. Tendo isso em vista, quais os comandos necessários para atender as solicitaçes de Alice?
 
 1. Qual o comando responsável por retornar as principais informaçes da distribuição em um sistema Linux?
+
 2. Qual o comando responsável por retornar a versão do Kernel utilizada pelo sistema?
+
 3. Qual o principal comando para retornar informaçes sobre o processador?
+
 4. Qual o principal comando utilizado para verificar a quantidade de memória disponível no sistema?
 
 Após coletar as informações necessárias crie um relatório para enviar à Alice, para isso:
