@@ -18,7 +18,7 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
 8. Observer a Figura abaixo e responda as seguintes perguntas:
     1. Quais arquivos possuem maior restrição de acesso?
     2. Qual arquivo possibilita a qualquer usuário do sistema a permissão de escrita?
-    3. Quais arquivos permitem ao usurio permissão de leitura?
+    3. Quais arquivos possibilitam ao usuário permissão de leitura?
 <p align="center">
   <img width="560" height="300" src="https://i.stack.imgur.com/7ZJHV.png">
 </p>
