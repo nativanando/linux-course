@@ -19,18 +19,33 @@
 Após coletar as informações necessárias crie um relatório para enviar à Alice, para isso:
 
 1. Verifique de estar na raiz do sistema ("/");
+
 2. Crie uma nova pasta, no diretório de trabalho padrão do usuário, chamada "atividades";
+
 3. Navegue até a pasta "atividades" a partir da raiz;
+
 4. Crie um novo arquivo chamado "demanda_alice.txt";
+
 5. Dentro do arquivo escreva os resultados dos exercícios anteriores
+   
    1. Nome e verso da distribuição;
+   
    2. Versão do Kernel;
+   
    3. Quantidade de núcleos do processador;
+   
    4. Quantidade total de memória (em gigabyte);
+   
    5. Quantidade total de memória utilizada (em megabyte);
+   
    6. Quantidade de memória disponível (em kilobyte).
+
 6. Verifique se o arquivo contém as informaçes corretas;
+
 7. Crie uma nova pasta, no diretório de trabalho padrão do usuário, chamada "historico_demandas" e copie o arquivo "demanda_alice.txt" para dentro dessa nova pasta;
+
 8. Após copiar o arquivo para o novo diretório, exclua o arquivo "demanda_alice.txt", que encontra-se dentro da pasta "atividades";
+
 9. Após excluir o arquivo "demanda_alice.txt", exclua o diretório "atividades";
+
 10. Verifique se o diretório e o arquivo foram excluídos.
