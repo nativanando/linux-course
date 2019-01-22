@@ -15,3 +15,7 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
 5. Se o usuário celtab for capaz de ler esse arquivo, modifique a permissão para que o usuário celtab não tenha acesso ao conteúdo do arquivo;
 6. Libere acesso ao usurário celtab apenas para leitura;
 7. Libere acesso ao usuário celtab para leitura e escrita.
+
+<p align="center">
+  <img width="560" height="300" src="https://i.stack.imgur.com/7ZJHV.png">
+</p>
