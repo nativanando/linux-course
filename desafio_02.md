@@ -24,7 +24,7 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
 
 
 
-## Dicas e referências
+## Referência
 
 [Conteúdo](https://www.geeksforgeeks.org/permissions-in-linux)
 
