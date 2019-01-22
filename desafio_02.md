@@ -24,9 +24,10 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
 
 
 
-## Tips and references
+## Dicas e referências
 
-[link text itself]: https://www.geeksforgeeks.org/permissions-in-linux/
+[Conteúdo](https://www.geeksforgeeks.org/permissions-in-linux)
+
 
 <p align="center">
   <img width="560" height="280" src="http://www.bosontreinamentos.com.br/wp-content/uploads/2013/06/permiss%C3%B5es-de-acesso-modo-octal-linux.png">
