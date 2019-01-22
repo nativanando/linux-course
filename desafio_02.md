@@ -11,3 +11,5 @@
 4. Verifique quais são as configurações de permissão do arquivo e responda a seguinte pergunta:
     1. O usuário celtab é capaz de abrir, ler e escrever nesse arquivo? Justifique sua resposta.
 5. Modifique a permissão do arquivo para que o usuário não tenha acesso ao conteúdo do arquivo;
+
+continuar..
