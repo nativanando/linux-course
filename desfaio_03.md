@@ -8,6 +8,11 @@
 5. Adiciona o usuário pptic e o usuário celtab ao grupo pti;
 6. Crie um novo usuário chamado cibiogas, com o diretório de trabalho chamado cibiogas. Verifique se o mesmo foi inserido no sistema;
 7. Inicie uma sessão com o usuário cibiogas e troque a senha;
+8. Adiciona o usuário cibiogas no grupo pti;
+9. Exclua o usuário pptic do grupo pti;
+10. Exclua o usuário pptic e seu diretório de trabalho;
+11. Abra o arquivo /etc/group e verifique quais usuários estão vinculados ao grupo.
+
 
 
 terminar
