@@ -7,6 +7,8 @@
 4. Verifique o arquivo /etc/passwd e /etc/shadow e certifique se o novo usuário foi inserido no sistema;
 5. Adiciona o usuário pptic e o usuário celtab ao grupo pti;
 6. Crie um novo usuário chamado cibiogas, com o diretório de trabalho chamado cibiogas. Verifique se o mesmo foi inserido no sistema;
+7. Inicie uma sessão com o usuário cibiogas e troque a senha;
+
 
 terminar
 
