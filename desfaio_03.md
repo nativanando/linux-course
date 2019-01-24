@@ -14,20 +14,5 @@
 11. Abra o arquivo /etc/group e verifique quais usuários estão vinculados ao grupo.
 
 
-
-terminar
-
-
-6. Inicie uma sessão com o usuário pptic, e dentro do diretório de trabalho, crie uma pasta projetos e, dentro de projetos, crie uma arquivo chamado "projeto_pptic_celtab". Em seguida escreva o seguinte texto no arquivo "Este é um projeto entre o pptic e o celtab";
-8. Como usuário pptic, altere a permissão do arquivo com as seguintes configurações:
-    1. Permissão de leitura, escrita e execução para o grupo do arquivo;
-    2. Nenhuma permissão para outros usuários;
-9. Como usuário celtab, acesse o arquivo "projeto_pptic_celtab" e veja se é possível ler ou escrever no arquivo. Realize o mesmo com o usuário cctic;
-10. Altere o grupo do arquivo para PTI;
-11. Realize o procedimento 9 novamente e veja os resultados. Houve alguma diferença?
-12. Adicione o usuário cctic ao grupo PTI e realize o acesso ao arquivo novamente. Houve alguma diferença comparado ao resultado anterior?
-
-Links de apoio: 
-
 https://medium.com/operacionalti/gerenciamento-de-usu%C3%A1rios-e-grupos-4564d3b64195
 https://www.vivaolinux.com.br/artigo/Como-gerenciar-usuarios-e-grupos
