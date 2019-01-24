@@ -23,7 +23,7 @@ A itaipu precisa guardar um segredo que não pode ser compartilhado com outros u
 
 7. Libere acesso ao usuário celtab para leitura e escrita.
 
-8. Observer a Figura abaixo e responda as seguintes perguntas:
+8. Observe a Figura abaixo e responda as seguintes perguntas:
     
     1. Quais arquivos possibilitam leitura para qualquer usuário do sistema?
     
